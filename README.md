@@ -3,6 +3,7 @@
 [![downloads](https://img.shields.io/npm/dm/nlp_compromise.svg)](https://www.npmjs.com/package/nlp_compromise)
 
 **nlp_compromise** does NLP in the browser.
+This Version comes with experimental pronoun resolution
 ```javascript
 nlp.sentence('She sells seashells').to_past().text()
 // 'She sold seashells'
