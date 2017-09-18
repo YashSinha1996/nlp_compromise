@@ -1,0 +1,10 @@
+#TODO
+Fix "mine"
+Fix determiner "those" and "that"
+Fix pronouns (like possesive)
+Fix gerunds	(why is it not a noun ?)
+Fix date like 15th jan 2015 or any d,m,y format. (unable to parse date)
+Add releative places (here and there)(which are also pronouns)
+Add time parsing
+Add preposition places (like "on the table","beneath the ground",etc.)
+Fix double word verb gerund
